@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"dpi_scale": 1.0,
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Markdown",
+		"MarkdownEditing",
+		"Vintage"
+	]
+}

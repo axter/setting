@@ -1,0 +1,823 @@
+{
+	"folder_history":
+	[
+		"/E/Git/android/document",
+		"/C/Users/zhaobo/Desktop/文件堆",
+		"/C/Users/zhaobo/Desktop/善跑/文档",
+		"/C/Users/zhaobo/Desktop/善跑"
+	],
+	"last_version": 3083,
+	"last_window_id": 6,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 631.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "ssma",
+				"selected_items":
+				[
+					[
+						"ssma",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"ssxm",
+						"Set Syntax: XML"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pce",
+						"Package Control: Enable Package"
+					],
+					[
+						"ssmar",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"pcd",
+						"Package Control: Disable Package"
+					],
+					[
+						"sstext",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"sstex",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"ssmark",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"mb",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ssj",
+						"Set Syntax: Java"
+					],
+					[
+						"ss",
+						"Set Syntax: Java"
+					],
+					[
+						"ssjva",
+						"Set Syntax: Java"
+					],
+					[
+						"ssjava",
+						"Set Syntax: Java"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"pcin",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/gradle/wrapper/gradle-wrapper.properties",
+				"/E/Git/android/document/Android Studio.md",
+				"/E/WorkSpace_AS/Android-Demos/FirstApp/gradle/wrapper/gradle-wrapper.properties",
+				"/E/WorkSpace_AS/Android-Demos/FirstApp/build.gradle",
+				"/D/Android Studio/bin/idea.properties",
+				"/D/android-sdk-windows/samples/android-23/legacy/ApiDemos/README.txt",
+				"/E/WorkSpace_AS/ApiDemos/README.txt",
+				"/D/github_rsa.pub",
+				"/D/github_rsa",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/bin/out/AndroidManifest.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/bin/AndroidManifest.xml",
+				"/E/WorkSpace_Code/a/test/src/com/imohoo/test/view/activity/MainActivity.java",
+				"/C/Users/zhaobo/Desktop/README.md",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/group_intro.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/group_intro_test.xml",
+				"/D/adb/move_back.cmd",
+				"/D/adb/move.cmd",
+				"/E/BaiduYunDownload/apache-ant-1.9.6-src/apache-ant-1.9.6/src/main/org/apache/tools/ant/util/regexp/RegexpMatcherFactory.java",
+				"/E/BaiduYunDownload/apache-ant-1.9.6-src/apache-ant-1.9.6/src/main/org/apache/tools/ant/util/regexp/RegexpUtil.java",
+				"/D/apache-ant-1.9.6/lib/ant-apache-regexp.pom",
+				"/E/BaiduYunDownload/apache-ant-1.9.6-src/apache-ant-1.9.6/src/main/org/apache/tools/ant/util/regexp/JakartaRegexpRegexp.java",
+				"/E/BaiduYunDownload/apache-ant-1.9.6-src/apache-ant-1.9.6/src/main/org/apache/tools/ant/util/regexp/JakartaRegexpMatcher.java",
+				"/E/WorkSpace/libs/document/BitmapCache.md",
+				"/C/Users/zhaobo/Desktop/文件堆/code.java",
+				"/E/WorkSpace/libs/.gitignore",
+				"/E/WorkSpace/TT/src/com/example/tt/Item_Label.java",
+				"/D/adb/shanpao_v1.2.1_67-test/AndroidManifest.xml",
+				"/D/adb/shanpao_v1.2.1_67-release/AndroidManifest.xml",
+				"/C/Users/zhaobo/Desktop/文件堆/使用/Camera.md",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/Item_Label.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/group_intro_intro.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/shanpaogroup_memberlist.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/shanpaogroup_item_game.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/shanpaogroup_list.xml",
+				"/C/Users/zhaobo/Desktop/文件堆/需求",
+				"/C/Users/zhaobo/Desktop/文件堆/README.md",
+				"/C/Users/zhaobo/Desktop/文件堆/中间竖线",
+				"/C/Users/zhaobo/Desktop/文件堆/使用/git.md",
+				"/C/Users/zhaobo/Desktop/文件堆/package control",
+				"/C/Users/zhaobo/Desktop/文件堆/lat",
+				"/C/Users/zhaobo/Desktop/文件堆/git",
+				"/C/Users/zhaobo/Desktop/AutoXListViewListener.java",
+				"/C/Users/zhaobo/Desktop/SportRecordActivity.java",
+				"/D/adb/jar.cmd",
+				"/D/adb/apk.cmd",
+				"/D/android-sdk-windows/decompile/aa.cmd",
+				"/D/adb/adb.cmd",
+				"/E/strava/res/layout/activity.xml",
+				"/E/BaiduYunDownload/6c8aef2e003248549b5376176dae8085/assets/prime.properties",
+				"/E/BaiduYunDownload/6c8aef2e003248549b5376176dae8085/assets/crashlytics-build.properties",
+				"/E/BaiduYunDownload/xUtils-master/library/src/com/lidroid/xutils/HttpUtils.java",
+				"/C/Users/zhaobo/Desktop/sharepreference_shanpao.xml",
+				"/C/Users/zhaobo/Desktop/过时的",
+				"/E/WorkSpace/SVN/1.1.21/shanpao/src/com/imohoo/shanpao/ui/activity/RunResultActivity.java",
+				"/E/WorkSpace/SVN/1.1.21/shanpao/src/com/imohoo/shanpao/ui/activity/group/ShanPaoGroupCreateGameActivity.java",
+				"/E/WorkSpace/SVN/1.1.21/shanpao/src/com/imohoo/shanpao/ui/activity/group/MapLocate.java",
+				"/E/WorkSpace/SVN/ShanPao/Rong_Cloud/IMKit/src/main/project.properties",
+				"/E/WorkSpace/SVN/ShanPao/Rong_Cloud/IMKit/src/main/.project",
+				"/E/WorkSpace/SVN/ShanPao/Rong_Cloud/IMKit/src/main/.classpath",
+				"/C/Users/zhaobo/Desktop/P50915-180010.jpg",
+				"/C/Users/zhaobo/Desktop/1442311152620.png",
+				"/C/Users/zhaobo/Desktop/cameraa/Item_CameraContainer.java",
+				"/C/Users/zhaobo/Desktop/cameraa/FileOperateUtil.java",
+				"/C/Users/zhaobo/Desktop/test.bat",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/build.xml",
+				"/C/Users/zhaobo/Desktop/文件堆/使用/XListView加载数据优化分页.md",
+				"/E/善跑apk/签名工具%2B多渠道打包工具/123.txt",
+				"/E/WorkSpace/SVN/Ebook_2_2015/build1.xml",
+				"/E/WorkSpace/SVN/Ebook_2_2015/build_all.xml",
+				"/E/WorkSpace/SVN/Ebook_2_2015/channel/channel3.properties",
+				"/D/android-sdk-windows/decompile/dd/AndroidManifest.xml",
+				"/E/WorkSpace/SVN/Ebook_2_2015/AndroidManifest.xml",
+				"/E/WorkSpace/a/AntDemo-masterTmp/checkstyle/android_checks.xml",
+				"/E/WorkSpace/Test/build.xml",
+				"/C/Users/zhaobo/Desktop/文件堆/Ant Android.md",
+				"/C/Users/zhaobo/Desktop/build1.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/color/selector_hongbao_licheng_color.xml",
+				"/C/Users/zhaobo/Desktop/build.xml",
+				"/E/WorkSpace/SVN/ShanPao/AutoXListViewListener.java",
+				"/E/WorkSpace/SVN/ShanPao/code",
+				"/E/WorkSpace/SVN/ShanPao/code.o",
+				"/E/WorkSpace/SVN/ShanPao/StringCache.java",
+				"/D/android-sdk-windows/tools/ant/build.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/bin/build.prop",
+				"/E/代码/volley/custom_rules.xml",
+				"/D/apache-maven-3.3.3/conf/settings.xml",
+				"/C/Users/zhaobo/Desktop/settings.xml",
+				"/C/Users/zhaobo/.m2/settings.xml",
+				"/E/WorkSpace_AS/ApisDemos/app/src/main/java/com/example/android/apis/animation/MultiPropertyAnimation.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-800x480/activity_run.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/camera/view/CameraContainer.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/Item_FocusImageView.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/Item_CameraView.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/.classpath",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/.project",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/.settings/org.eclipse.jdt.core.prefs",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/.settings/org.eclipse.core.resources.prefs",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/Item_CameraOperation.java",
+				"/C/Users/zhaobo/Desktop/善跑/RoundImageView.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/GameTranslateResponse.java",
+				"/E/Git/Test/README.md",
+				"/E/Git/Test/.gitignore",
+				"/E/Git/shanpao/.git/objects/00/b0726f54b496b5cc3edce6b10525c5aca45307",
+				"/C/Users/zhaobo/.gitconfig",
+				"/E/WorkSpace/tests/assets/rich_editor.js",
+				"/E/WorkSpace_AS/richeditor-android-master/sample/src/main/AndroidManifest.xml",
+				"/E/WorkSpace/tests/assets/editor.html",
+				"/E/WorkSpace_AS/richeditor-android-master/richeditor/src/main/AndroidManifest.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/ShanPaoGroupGameMemberAdapter.java",
+				"/E/WorkSpace/BitmapUtil.java",
+				"/E/WorkSpace/Others/BitmapUtil.java",
+				"/E/WorkSpace/Others/Test/src/com/aa/Main.java",
+				"/E/WorkSpace/Code/src/Code.java",
+				"/E/WorkSpace/Code/src/DownLoad.java",
+				"/D/PortableGit/README.portable",
+				"/D/android-sdk-windows/count/21.txt",
+				"/D/android-sdk-windows/count/1.txt",
+				"/D/android-sdk-windows/count/2.txt",
+				"/D/android-sdk-windows/count/3.txt",
+				"/E/BaiduYunDownload/MarkdownView-master/README.md",
+				"/E/BaiduYunDownload/MarkdownView-master/markdown_css_themes/paperwhite.css",
+				"/C/Users/zhaobo/AppData/Local/Haroopad/Themes/editor/default.css",
+				"/D/android-sdk-windows/decompile/huawei/AndroidManifest.xml",
+				"/C/Users/zhaobo/Desktop/渠道列表.txt",
+				"/C/Users/zhaobo/Desktop/文档美化/XListView加载数据优化分页.html",
+				"/D/android-sdk-windows/decompile/bb/assets/icon.pvr",
+				"/D/android-sdk-windows/decompile/bb/original/AndroidManifest.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/activity_login.xml"
+			],
+			"find":
+			{
+				"height": 44.0
+			},
+			"find_in_files":
+			{
+				"height": 123.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"save",
+					"4.1",
+					"4",
+					"7",
+					"release",
+					"RONG_CLOUD_APP_KEY",
+					"qd46yzrf42mlf",
+					"if",
+					"1.5",
+					"setting.xml",
+					"list",
+					"volley",
+					"Chinnel",
+					"ATest",
+					" id ",
+					"上传文件为空",
+					"format",
+					"xlistview加载数据优化分页",
+					"volley",
+					"xutils",
+					"xutil",
+					"xutils"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"code.java"
+					],
+					[
+						"ite",
+						"Item_Address地址选择器"
+					],
+					[
+						"au",
+						"AutoPopupMenu.md"
+					],
+					[
+						"r",
+						"README.md"
+					],
+					[
+						"re",
+						"README.md"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1586.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "pcl",
+				"selected_items":
+				[
+					[
+						"pcl",
+						"Package Control: List Packages"
+					],
+					[
+						"ssma",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"ssxm",
+						"Set Syntax: XML"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pce",
+						"Package Control: Enable Package"
+					],
+					[
+						"ssmar",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"pcd",
+						"Package Control: Disable Package"
+					],
+					[
+						"sstext",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"sstex",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"ssmark",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"mb",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ssj",
+						"Set Syntax: Java"
+					],
+					[
+						"ss",
+						"Set Syntax: Java"
+					],
+					[
+						"ssjva",
+						"Set Syntax: Java"
+					],
+					[
+						"ssjava",
+						"Set Syntax: Java"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"pcin",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 162.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/Git/android/document"
+			],
+			"file_history":
+			[
+				"/E/Git/setting/eclipse/eclipse配置.md",
+				"/E/Git/setting/eclipse/formatter.xml",
+				"/C/Users/zhaobo/Desktop/eclipse配置",
+				"/C/Users/zhaobo/Desktop/aa.xml",
+				"/E/Git/android/CommonLibrary/src/com/axter/libs/crash/CrashApplication.java",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/app/src/main/AndroidManifest.xml",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/circularbuttonanimatedcolor/src/main/AndroidManifest.xml",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/materialCircularButton/src/main/AndroidManifest.xml",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/circularbuttonanimatedcolor/src/main/java/com/glomadrian/button/CircleButton.java",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/build.gradle",
+				"/E/WorkSpace_AS/FirstApp/build.gradle",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/gradle.properties",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/gradlew",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/gradlew.bat",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/MateriaCircularButton.iml",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/readme.md",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/settings.gradle",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/.gitignore",
+				"/D/android-sdk-windows/tools/ant/build.xml",
+				"/E/WorkSpace_AS/Android-Demos/FirstApp/build.gradle",
+				"/E/WorkSpace_AS/Android-Demos/FirstApp/gradle/wrapper/gradle-wrapper.properties",
+				"/E/WorkSpace_AS/Android-Material-circular-button-master/gradle/wrapper/gradle-wrapper.properties",
+				"/E/Git/android/document/Android Studio.md",
+				"/D/Android Studio/bin/idea.properties",
+				"/D/android-sdk-windows/samples/android-23/legacy/ApiDemos/README.txt",
+				"/E/WorkSpace_AS/ApiDemos/README.txt",
+				"/D/github_rsa.pub",
+				"/D/github_rsa",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/bin/out/AndroidManifest.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/bin/AndroidManifest.xml",
+				"/E/WorkSpace_Code/a/test/src/com/imohoo/test/view/activity/MainActivity.java",
+				"/C/Users/zhaobo/Desktop/README.md",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/group_intro.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/group_intro_test.xml",
+				"/D/adb/move_back.cmd",
+				"/D/adb/move.cmd",
+				"/E/BaiduYunDownload/apache-ant-1.9.6-src/apache-ant-1.9.6/src/main/org/apache/tools/ant/util/regexp/RegexpMatcherFactory.java",
+				"/E/BaiduYunDownload/apache-ant-1.9.6-src/apache-ant-1.9.6/src/main/org/apache/tools/ant/util/regexp/RegexpUtil.java",
+				"/D/apache-ant-1.9.6/lib/ant-apache-regexp.pom",
+				"/E/BaiduYunDownload/apache-ant-1.9.6-src/apache-ant-1.9.6/src/main/org/apache/tools/ant/util/regexp/JakartaRegexpRegexp.java",
+				"/E/BaiduYunDownload/apache-ant-1.9.6-src/apache-ant-1.9.6/src/main/org/apache/tools/ant/util/regexp/JakartaRegexpMatcher.java",
+				"/E/WorkSpace/libs/document/BitmapCache.md",
+				"/C/Users/zhaobo/Desktop/文件堆/code.java",
+				"/E/WorkSpace/libs/.gitignore",
+				"/E/WorkSpace/TT/src/com/example/tt/Item_Label.java",
+				"/D/adb/shanpao_v1.2.1_67-test/AndroidManifest.xml",
+				"/D/adb/shanpao_v1.2.1_67-release/AndroidManifest.xml",
+				"/C/Users/zhaobo/Desktop/文件堆/使用/Camera.md",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/Item_Label.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/group_intro_intro.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/shanpaogroup_memberlist.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/shanpaogroup_item_game.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-nodpi/shanpaogroup_list.xml",
+				"/C/Users/zhaobo/Desktop/文件堆/需求",
+				"/C/Users/zhaobo/Desktop/文件堆/README.md",
+				"/C/Users/zhaobo/Desktop/文件堆/中间竖线",
+				"/C/Users/zhaobo/Desktop/文件堆/使用/git.md",
+				"/C/Users/zhaobo/Desktop/文件堆/package control",
+				"/C/Users/zhaobo/Desktop/文件堆/lat",
+				"/C/Users/zhaobo/Desktop/文件堆/git",
+				"/C/Users/zhaobo/Desktop/AutoXListViewListener.java",
+				"/C/Users/zhaobo/Desktop/SportRecordActivity.java",
+				"/D/adb/jar.cmd",
+				"/D/adb/apk.cmd",
+				"/D/android-sdk-windows/decompile/aa.cmd",
+				"/D/adb/adb.cmd",
+				"/E/strava/res/layout/activity.xml",
+				"/E/BaiduYunDownload/6c8aef2e003248549b5376176dae8085/assets/prime.properties",
+				"/E/BaiduYunDownload/6c8aef2e003248549b5376176dae8085/assets/crashlytics-build.properties",
+				"/E/BaiduYunDownload/xUtils-master/library/src/com/lidroid/xutils/HttpUtils.java",
+				"/C/Users/zhaobo/Desktop/sharepreference_shanpao.xml",
+				"/C/Users/zhaobo/Desktop/过时的",
+				"/E/WorkSpace/SVN/1.1.21/shanpao/src/com/imohoo/shanpao/ui/activity/RunResultActivity.java",
+				"/E/WorkSpace/SVN/1.1.21/shanpao/src/com/imohoo/shanpao/ui/activity/group/ShanPaoGroupCreateGameActivity.java",
+				"/E/WorkSpace/SVN/1.1.21/shanpao/src/com/imohoo/shanpao/ui/activity/group/MapLocate.java",
+				"/E/WorkSpace/SVN/ShanPao/Rong_Cloud/IMKit/src/main/project.properties",
+				"/E/WorkSpace/SVN/ShanPao/Rong_Cloud/IMKit/src/main/.project",
+				"/E/WorkSpace/SVN/ShanPao/Rong_Cloud/IMKit/src/main/.classpath",
+				"/C/Users/zhaobo/Desktop/P50915-180010.jpg",
+				"/C/Users/zhaobo/Desktop/1442311152620.png",
+				"/C/Users/zhaobo/Desktop/cameraa/Item_CameraContainer.java",
+				"/C/Users/zhaobo/Desktop/cameraa/FileOperateUtil.java",
+				"/C/Users/zhaobo/Desktop/test.bat",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/build.xml",
+				"/C/Users/zhaobo/Desktop/文件堆/使用/XListView加载数据优化分页.md",
+				"/E/善跑apk/签名工具%2B多渠道打包工具/123.txt",
+				"/E/WorkSpace/SVN/Ebook_2_2015/build1.xml",
+				"/E/WorkSpace/SVN/Ebook_2_2015/build_all.xml",
+				"/E/WorkSpace/SVN/Ebook_2_2015/channel/channel3.properties",
+				"/D/android-sdk-windows/decompile/dd/AndroidManifest.xml",
+				"/E/WorkSpace/SVN/Ebook_2_2015/AndroidManifest.xml",
+				"/E/WorkSpace/a/AntDemo-masterTmp/checkstyle/android_checks.xml",
+				"/E/WorkSpace/Test/build.xml",
+				"/C/Users/zhaobo/Desktop/文件堆/Ant Android.md",
+				"/C/Users/zhaobo/Desktop/build1.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/color/selector_hongbao_licheng_color.xml",
+				"/C/Users/zhaobo/Desktop/build.xml",
+				"/E/WorkSpace/SVN/ShanPao/AutoXListViewListener.java",
+				"/E/WorkSpace/SVN/ShanPao/code",
+				"/E/WorkSpace/SVN/ShanPao/code.o",
+				"/E/WorkSpace/SVN/ShanPao/StringCache.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/bin/build.prop",
+				"/E/代码/volley/custom_rules.xml",
+				"/D/apache-maven-3.3.3/conf/settings.xml",
+				"/C/Users/zhaobo/Desktop/settings.xml",
+				"/C/Users/zhaobo/.m2/settings.xml",
+				"/E/WorkSpace_AS/ApisDemos/app/src/main/java/com/example/android/apis/animation/MultiPropertyAnimation.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/res/layout-800x480/activity_run.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/camera/view/CameraContainer.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/Item_FocusImageView.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/Item_CameraView.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/.classpath",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/.project",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/.settings/org.eclipse.jdt.core.prefs",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/.settings/org.eclipse.core.resources.prefs",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/Item_CameraOperation.java",
+				"/C/Users/zhaobo/Desktop/善跑/RoundImageView.java",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/GameTranslateResponse.java",
+				"/E/Git/Test/README.md",
+				"/E/Git/Test/.gitignore",
+				"/E/Git/shanpao/.git/objects/00/b0726f54b496b5cc3edce6b10525c5aca45307",
+				"/C/Users/zhaobo/.gitconfig",
+				"/E/WorkSpace/tests/assets/rich_editor.js",
+				"/E/WorkSpace_AS/richeditor-android-master/sample/src/main/AndroidManifest.xml",
+				"/E/WorkSpace/tests/assets/editor.html",
+				"/E/WorkSpace_AS/richeditor-android-master/richeditor/src/main/AndroidManifest.xml",
+				"/E/WorkSpace/SVN/ShanPao/shanpao/src/com/imohoo/shanpao/ui/activity/group/ShanPaoGroupGameMemberAdapter.java",
+				"/E/WorkSpace/BitmapUtil.java"
+			],
+			"find":
+			{
+				"height": 44.0
+			},
+			"find_in_files":
+			{
+				"height": 123.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"1.5",
+					"7",
+					"save",
+					"4.1",
+					"4",
+					"7",
+					"release",
+					"RONG_CLOUD_APP_KEY",
+					"qd46yzrf42mlf",
+					"if",
+					"1.5",
+					"setting.xml",
+					"list",
+					"volley",
+					"Chinnel",
+					"ATest",
+					" id ",
+					"上传文件为空",
+					"format",
+					"xlistview加载数据优化分页",
+					"volley",
+					"xutils",
+					"xutil",
+					"xutils"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\Git\\android\\document"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,888,127,187,1731",
+			"project": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"code.java"
+					],
+					[
+						"ite",
+						"Item_Address地址选择器"
+					],
+					[
+						"au",
+						"AutoPopupMenu.md"
+					],
+					[
+						"r",
+						"README.md"
+					],
+					[
+						"re",
+						"README.md"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
