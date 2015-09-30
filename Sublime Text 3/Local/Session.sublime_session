@@ -503,10 +503,6 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/E/Git/android/document"
-			],
 			"file_history":
 			[
 				"/E/Git/setting/eclipse/eclipse配置.md",
@@ -693,12 +689,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "E:\\Git\\android\\document"
-				}
-			],
 			"groups":
 			[
 				{
@@ -743,7 +733,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,888,127,187,1731",
+			"position": "0,0,1,-1,-1,-1,-1,1054,-15,353,1589",
 			"project": "",
 			"replace":
 			{
